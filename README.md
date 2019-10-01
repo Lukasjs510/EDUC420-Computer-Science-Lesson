@@ -14,6 +14,7 @@
 	5. Without pressing anything else copy that code with - Mac: cmd + c, Windows: ctrl + c
 	6. Select all the code from JDoodle (Mac: cmd + a, Windows: ctrl + a)
 	7. Without pressing anything else paste the code from Calc.java into JDoodle (Mac: cmd + v, Windows: ctrl + v)
+	8. Turn on interactive mode in JDoodle
 	
 	Part 1: (Easy)
 	1. Look over the code that is now in JDoodle
