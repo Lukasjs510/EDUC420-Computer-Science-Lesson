@@ -1,12 +1,12 @@
-EDUC-420 Calc.java Lab
+	EDUC-420 Calc.java Lab
 
-Compiler:
+	Compiler:
 	https://www.jdoodle.com/online-java-compiler/
 
-Code:
+	Code:
 	https://github.com/Lukasjs510/EDUC420-Lesson.git
 
-Instructions:
+	Instructions:
 	1. In your favorite browser open JDoodle and toggle interactive mode
 	2. Open Calc.java with a text editor (Mac: TextEdit, Windows: NotePad)
 	3. Select all the code from Calc.java (Mac: cmd + a, Windows: ctrl + a)
