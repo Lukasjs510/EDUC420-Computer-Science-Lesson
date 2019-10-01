@@ -7,12 +7,13 @@
 	https://github.com/Lukasjs510/EDUC420-Lesson.git
 
 	Instructions:
-	1. In your favorite browser open JDoodle and toggle interactive mode
-	2. Open Calc.java with a text editor (Mac: TextEdit, Windows: NotePad)
-	3. Select all the code from Calc.java (Mac: cmd + a, Windows: ctrl + a)
-	4. Without pressing anything else copy that code with - Mac: cmd + c, Windows: ctrl + c
-	5. Select all the code from JDoodle (Mac: cmd + a, Windows: ctrl + a)
-	6. Without pressing anything else paste the code from Calc.java into JDoodle (Mac: cmd + v, Windows: ctrl + v)
+	1. Download/Clone this github repository
+	2. In your favorite browser open JDoodle and toggle interactive mode
+	3. Open Calc.java with a text editor (Mac: TextEdit, Windows: NotePad)
+	4. Select all the code from Calc.java (Mac: cmd + a, Windows: ctrl + a)
+	5. Without pressing anything else copy that code with - Mac: cmd + c, Windows: ctrl + c
+	6. Select all the code from JDoodle (Mac: cmd + a, Windows: ctrl + a)
+	7. Without pressing anything else paste the code from Calc.java into JDoodle (Mac: cmd + v, Windows: ctrl + v)
 	
 	Part 1: (Easy)
 	1. Look over the code that is now in JDoodle
