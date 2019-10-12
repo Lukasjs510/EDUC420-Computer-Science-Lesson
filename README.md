@@ -16,7 +16,11 @@
 	7. Without pressing anything else paste the code from Calc.java into JDoodle (Mac: cmd + v, Windows: ctrl + v)
 	8. Turn on interactive mode in JDoodle
 	
-	Exercise:
+	Exercise 1:
 	1. Look over the code that is now in JDoodle
 	2. Find the methods named add(), sub(), mult(), and div()
 	3. Fill them out with the correct operators
+	
+	Exercise 2:
+	1. Delete all the code in add(), sub(), mult(), and div()
+	2. Implement add(), sub(), mult(), and div() using loops
